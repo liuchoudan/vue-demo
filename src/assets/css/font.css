@@ -1,0 +1,10 @@
+/* 字体颜色*/
+.font-white{color:#FFF;}
+.font-green{color:#4ae387;}
+
+/* 字体大小*/
+.font-size20{font-size: 1.25rem;}
+.font-size12{font-size: 12px;}
+
+/* 字体weight*/
+.font-weight-normal{font-weight: normal;}

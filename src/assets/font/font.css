@@ -1,0 +1,12 @@
+[class^="el-icon-fa"], [class*=" el-icon-fa"] {
+  font-family:FontAwesome !important;
+  
+  /* 以下内容参照第三方图标库本身的规则 */
+  font-size: inherit;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@import url("../../../node_modules/font-awesome/less/font-awesome");
+@fa-css-prefix: el-icon-fa; 
